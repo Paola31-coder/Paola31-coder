@@ -11,12 +11,15 @@ Sobre mi:
 - 📊 Experiencia: Contadora Pública, especialista en Revisoría Fiscal y Auditoría.
 - 💻 Herramientas: Jira, Postman, SQL, GitHub, DevTools.
 
-### 🛠️ Tecnologías y Herramientas
-- 🔎 **Pruebas:** Manuales · Funcionales · Regresión · Móviles (Android Studio) · API  
-- 🧪 **Herramientas QA:** Jira · Postman · DevTools · Figma  
-- 💻 **Automatización básica:** Selenium · Python  
-- 🗄️ **Bases de datos:** SQL  
-- 🌐 **Control de versiones:** GitHub
+### 🚀 Habilidades técnicas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 - ### 🚀 Actualmente
 - 📚 Aprendiendo y reforzando conocimientos en **pruebas automatizadas** con Selenium y Python.  
