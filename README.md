@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hola soy Paola Carolina ¡ Encantada de conocerte!👋
 
 <!--
 **Paola31-coder/Paola31-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sobre mi: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 🔎 Recientemente me gradue de QA Enginner con Tripleten.
+- 🤝 Busco colaborar en proyectos de testing manual y QA.
+- 📊 Experiencia: Contadora Pública, especialista en Revisoría Fiscal y Auditoría.
+- 💻 Herramientas: Jira, Postman, SQL, GitHub, DevTools.
+
+### 🛠️ Tecnologías y Herramientas
+- 🔎 **Pruebas:** Manuales · Funcionales · Regresión · Móviles (Android Studio) · API  
+- 🧪 **Herramientas QA:** Jira · Postman · DevTools · Figma  
+- 💻 **Automatización básica:** Selenium · Python  
+- 🗄️ **Bases de datos:** SQL  
+- 🌐 **Control de versiones:** GitHub
 -->
