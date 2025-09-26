@@ -1,4 +1,4 @@
-![Descripción](https://<img width="1200" height="627" alt="Image(10)" src="https://github.com/user-attachments/assets/b82a1f9b-f568-45b8-9d70-9d91ffdad9d9" />
+![Descripción](https://<img width="1584" height="396" alt="Paola Carolina Andrade Trujillo QA Engineer paolita31@gmail com" src="https://github.com/user-attachments/assets/89ca9e23-8741-40bb-a628-0ddab4d59d36" />
 /imagen.png)
 
 ## 👋 Hola, soy Paola Carolina  
