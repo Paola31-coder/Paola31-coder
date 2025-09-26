@@ -1,3 +1,6 @@
+![Descripción](https://<img width="1200" height="627" alt="Image(10)" src="https://github.com/user-attachments/assets/b82a1f9b-f568-45b8-9d70-9d91ffdad9d9" />
+/imagen.png)
+
 ## 👋 Hola, soy Paola Carolina  
 
 Soy recientemente **QA Engineer Jr.** con experiencia en pruebas manuales y conocimientos en herramientas de aseguramiento de calidad de software.  
