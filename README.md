@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://files.oaiusercontent.com/file-000000002894620eb97f3e3ae11fa55c.png" 
-       alt="Banner de perfil" 
-       width="100%" 
-       style="border-radius:15px;">
-</p>
+<p align="center"><img src="https://files.oaiusercontent.com/file-000000002894620eb97f3e3ae11fa55c.png"alt="Banner de perfil"width="100%"style="border-radius:15px;"></p>
 
 ## 👋 Hola, soy Paola Carolina  
 
