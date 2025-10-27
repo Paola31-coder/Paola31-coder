@@ -1,4 +1,10 @@
-https://media.licdn.com/dms/image/v2/D4E16AQHfKd4xCxETyA/profile-displaybackgroundimage-shrink_350_1400/B4EZohq1gAIwAc-/0/1761501469812?e=1762992000&v=beta&t=w8Kq5IL2wYwbJixbq1xc1wnleY7VT6lAHsUlJqPKOBw
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Paola31-coder/Paola31-coder/main/<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/230b219b-229b-48a5-b770-28dfe4b59ce8" />
+" 
+       alt="Banner de perfil" 
+       width="100%" 
+       style="border-radius:15px;">
+</p>
 
 ## 👋 Hola, soy Paola Carolina  
 
