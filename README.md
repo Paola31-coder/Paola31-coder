@@ -1,4 +1,4 @@
-<p align="center"><img src="https://files.oaiusercontent.com/file-000000002894620eb97f3e3ae11fa55c.png"alt="Banner de perfil"width="100%"style="border-radius:15px;"></p>
+blob:https://chatgpt.com/c440d758-e38e-47f2-baad-178b641d2ac4
 
 ## 👋 Hola, soy Paola Carolina  
 
