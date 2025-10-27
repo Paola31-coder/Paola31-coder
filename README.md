@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ddd83a6a-488b-443f-a92f-b80751b70326" alt="Banner de perfil" width="80%">
+<img src="https://github.com/user-attachments/assets/ddd83a6a-488b-443f-a92f-b80751b70326" alt="Banner de perfil" height="250">
 
 ## 👋 Hola, soy Paola Carolina  
 
