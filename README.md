@@ -1,4 +1,9 @@
-<img src="https://github.com/user-attachments/assets/ddd83a6a-488b-443f-a92f-b80751b70326" alt="Banner de perfil" height="250">
+<p align="center">
+  <img src="https://files.oaiusercontent.com/file-000000002894620eb97f3e3ae11fa55c.png" 
+       alt="Banner de perfil" 
+       width="100%" 
+       style="border-radius:15px;">
+</p>
 
 ## 👋 Hola, soy Paola Carolina  
 
