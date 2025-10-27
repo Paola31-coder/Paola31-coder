@@ -1,4 +1,4 @@
-blob:https://chatgpt.com/c440d758-e38e-47f2-baad-178b641d2ac4
+https://media.licdn.com/dms/image/v2/D4E16AQHfKd4xCxETyA/profile-displaybackgroundimage-shrink_350_1400/B4EZohq1gAIwAc-/0/1761501469812?e=1762992000&v=beta&t=w8Kq5IL2wYwbJixbq1xc1wnleY7VT6lAHsUlJqPKOBw
 
 ## 👋 Hola, soy Paola Carolina  
 
