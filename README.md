@@ -1,4 +1,4 @@
-<img src="![andras-vas-Bd7gNnWJBkU-unsplash(4)](https://github.com/user-attachments/assets/ddd83a6a-488b-443f-a92f-b80751b70326)" alt="Banner de perfil" width="100%">
+<img src="https://github.com/user-attachments/assets/ddd83a6a-488b-443f-a92f-b80751b70326" alt="Banner de perfil" width="100%">
 
 ## 👋 Hola, soy Paola Carolina  
 
