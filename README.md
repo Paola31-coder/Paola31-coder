@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Paola Carolina Andrade Trujillo QA Engineer paolita31@gmail com" src="https://github.com/user-attachments/assets/89ca9e23-8741-40bb-a628-0ddab4d59d36" />
+<img ![andras-vas-Bd7gNnWJBkU-unsplash(5)](https://github.com/user-attachments/assets/659d8393-d637-428e-bec0-a722e8a247ff)/>
 
 ## 👋 Hola, soy Paola Carolina  
 
