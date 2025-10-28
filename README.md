@@ -2,8 +2,9 @@
 
 ## 👋 Hola, soy Paola Carolina  
 
-Soy recientemente **QA Engineer Jr.** con experiencia en pruebas manuales y conocimientos en herramientas de aseguramiento de calidad de software.  
-También soy **Contadora Pública, especialista en Revisoría Fiscal y Auditoría**, lo que me brinda un enfoque analítico y orientado al detalle.  
+Soy QA Engineer, con experiencia en pruebas manuales, funcionales, de regresión, de humo y móviles (Android Studio). Manejo herramientas como Jira, Postman, DevTools, Figma y tengo conocimientos en bases de datos SQL, versionado con GitHub y automatización básica con Selenium y Python.
+
+Mi trayectoria como Contadora Pública y Especialista en Revisoría Fiscal y Auditoría me ha brindado una visión analítica, atención al detalle y enfoque en el cumplimiento de estándares de calidad, competencias que aplico ahora al campo del aseguramiento de la calidad de software.
 
 
 Sobre mi: 
