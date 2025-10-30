@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/5ae46091-2878-460c-9860-3b8070275318" />
+<img width="1536" height="1024" alt="ChatGPT Image 30 oct 2025, 16_18_19" src="https://github.com/user-attachments/assets/72174314-11b2-4b5d-8d89-3077e9d66722" />
+
 
 
 ## 👋 Hola, soy Paola Carolina  
