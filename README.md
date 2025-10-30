@@ -1,4 +1,5 @@
-<img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/2202e2ea-636d-40fa-97ff-fe0f685e062e" />
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/5ae46091-2878-460c-9860-3b8070275318" />
+
 
 ## 👋 Hola, soy Paola Carolina  
 
