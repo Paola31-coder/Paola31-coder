@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="ChatGPT Image 30 oct 2025, 16_18_19" src="https://github.com/user-attachments/assets/72174314-11b2-4b5d-8d89-3077e9d66722" />
+![1761859689498](https://github.com/user-attachments/assets/aaafebe4-c02a-417f-8ca9-f5a01495843f)
+
 
 
 
