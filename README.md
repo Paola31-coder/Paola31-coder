@@ -1,6 +1,4 @@
-![1761859689498](https://github.com/user-attachments/assets/aaafebe4-c02a-417f-8ca9-f5a01495843f)
-
-
+![1761859689498](https://github.com/user-attachments/assets/d6964ea9-89ef-48fe-ba1a-a185d33fb301)
 
 
 ## 👋 Hola, soy Paola Carolina  
